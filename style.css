@@ -1,0 +1,89 @@
+body {
+    background: #CCFBFE;
+}
+
+.bg {
+    height: 720px;
+    width: 400px;
+    background-color: #fff;
+    margin: 0 auto;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -o-border-radius: 10px;
+    -ms-border-radius: 10px;
+    border: 1px solid #c0c0c0;
+    
+}
+.bgwrap { 
+    padding: 10px;
+    background-color: #fff;
+    
+ }
+
+.header { 
+    height: 65px; 
+}
+
+.title {
+    text-align: center;
+    position: relative;
+    top: 30px;
+    font-size: 35px;
+    letter-spacing: 5px;
+    text-decoration: none;
+    font-family: 'Georgia', sans-serif;
+    font-style: bold;
+
+}
+
+img {
+    border: 1px solid #c0c0c0;
+    padding: 4px;
+    width: 350px;
+    display: block;
+    margin-top: 55px;
+    margin-left: 10px;
+    max-width: 100%
+}
+
+
+.info {
+    padding: 40px;
+    font-size: 20px;
+    font-family: 'Georgia';
+    float: left;
+}
+
+.about {
+    color: #c0c0c0;
+    float: right;
+    position: relative;
+    font-size: 24px;
+    padding: 12px;
+    font-family: 'Helvetica', sans-serif; 
+}
+
+.like img {
+    margin-top: 15px;
+    margin-right: 80px;
+    float: right;
+    width: 60px;
+    padding: 5px;
+    border: transparent;
+}
+
+.back img {
+    margin-top: 15px;
+    float: left;
+    width: 60px;
+    padding: 5px;
+    border: transparent;
+}
+
+.next img {
+    margin-top: 15px;
+    float: right;
+    width: 60px;
+    padding: 5px;
+    border: transparent;
+}
